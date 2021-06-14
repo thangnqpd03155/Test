@@ -137,6 +137,7 @@
             this.Controls.Add(this.txt_Name);
             this.Name = "InputData";
             this.Size = new System.Drawing.Size(597, 37);
+            this.Load += new System.EventHandler(this.InputData_Load);
             this.PreviewKeyDown += new System.Windows.Forms.PreviewKeyDownEventHandler(this.InputData_PreviewKeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();

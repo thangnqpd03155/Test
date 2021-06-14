@@ -230,6 +230,12 @@ namespace InputDataApplication
             int i = flp.Controls.GetChildIndex(this);
             deleteCtr?.Invoke(i);
         }
+
+        private void InputData_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
+//I can do that
