@@ -1,0 +1,14 @@
+C:\Users\thangnq\source\repos\InputDataApplication\bin\Debug\InputDataApplication.exe.config
+C:\Users\thangnq\source\repos\InputDataApplication\bin\Debug\InputDataApplication.exe
+C:\Users\thangnq\source\repos\InputDataApplication\bin\Debug\InputDataApplication.pdb
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.csprojAssemblyReference.cache
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.InputData.resources
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.Main.resources
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.Properties.Resources.resources
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.csproj.GenerateResource.cache
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.csproj.CoreCompileInputs.cache
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.exe
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.pdb
+C:\Users\thangnq\source\repos\InputDataApplication\bin\Debug\ImageGlass.ImageBox.dll
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.UC_Image.resources
+C:\Users\thangnq\source\repos\InputDataApplication\obj\Debug\InputDataApplication.csproj.CopyComplete
